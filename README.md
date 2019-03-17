@@ -1,2 +1,39 @@
+---
+title: SharpSolver
+tags: [GitHub, Notebooks/GitHub]
+created: '2019-03-15T20:27:23.950Z'
+modified: '2019-03-17T16:34:36.479Z'
+---
+
 # SharpSolver
-Polynomial command line interpreter and manipulator written in F#
+
+SharpSolver is a command line interpreter able to manipulate polynomial expression, in particular to recognize, simplify, normalize and derive polynomials. Moreover it is able to solve polynomial equations of degree less than or equal to 3.
+
+Project for 'Introduction to programming' course (2018-19) at Ca' Foscari University of Venice.
+
+## Example
+
+![](@attachment/sharpsolver-ex1.png)
+![](@attachment/sharpsolver-ex2.png)
+![](https://imgur.com/fgQmSB9)
+![](https://imgur.com/YQ9BzwR)
+
+## Usage
+### Mac
+Build and Run ([Mono](https://www.mono-project.com/) required)
+
+    msbuild SharpSolver.sln
+    mono bin/Debug/SharpSolver.exe
+
+
+## Credits
+
+(C) 2018 Alvise Spano' @ Universita' Ca' Foscari di Venezia
+ - Main.fs
+ - Prelude.fs
+ - Absyn.fs
+ - Config.fs
+
+(C) 2018 Giacomo Rosin @ Universita' Ca' Foscari di Venezia
+ - Main.fs
+ - Impl.fs

@@ -1,10 +1,3 @@
----
-title: SharpSolver
-tags: [GitHub, Notebooks/GitHub]
-created: '2019-03-15T20:27:23.950Z'
-modified: '2019-03-17T16:34:36.479Z'
----
-
 # SharpSolver
 
 SharpSolver is a command line interpreter able to manipulate polynomial expression, in particular to recognize, simplify, normalize and derive polynomials. Moreover it is able to solve polynomial equations of degree less than or equal to 3.
@@ -13,8 +6,6 @@ Project for 'Introduction to programming' course (2018-19) at Ca' Foscari Univer
 
 ## Example
 
-![](@attachment/sharpsolver-ex1.png)
-![](@attachment/sharpsolver-ex2.png)
 ![](https://imgur.com/fgQmSB9)
 ![](https://imgur.com/YQ9BzwR)
 

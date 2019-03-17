@@ -6,8 +6,8 @@ Project for 'Introduction to programming' course (2018-19) at Ca' Foscari Univer
 
 ## Example
 
-![example 1](https://imgur.com/fgQmSB9)
-![example 2](https://imgur.com/YQ9BzwR)
+![example 1](https://imgur.com/fgQmSB9.png)
+![example 2](https://imgur.com/YQ9BzwR.png)
 
 ## Usage
 ### Mac
